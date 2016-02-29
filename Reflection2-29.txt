@@ -1,0 +1,4 @@
+Today we started out learning bianary numbers. We then went into an activity where we converted from decimal notation to hexidecimal, octidecimal, and into bianary.
+We then listen to a lecture about Github, which seems to be a very helpful tool. We broke out into groups and all collaborated on a story.
+The biggest problem we ran into was everyone trying to push their changes to the story without pulling any of the new additions.
+This issue helped us work on communicating with each other better.
