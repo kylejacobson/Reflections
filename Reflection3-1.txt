@@ -1,0 +1,7 @@
+Today we started out with a team scrum. We talked about what we learned the previous 
+day,and what we were going to accomplish today. We got into basic networking
+and how it might become useful with programming. Before lunch, we created 
+.bat files and played around with how they can do things using the command line.
+After lunch, Nick lectured about HTML & CSS. We then created our own web page and
+uploaded it to github. I spent the rest of the day messing around with my page and
+doing HTML/CSS tutorials on codeacademy.
