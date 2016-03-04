@@ -1,0 +1,5 @@
+In today's scrum we all agreed that we weren't 100% on HTML border structure. We all felt that after the test, we looked over the information and 
+grabbed a better understanding. The rest of the day was spent on JAVA. We had a few excellent lectures from Mike. We had three projecters for the 
+remainder of the day. Two of them involved calculating someones pay based on the hours worked and pay rate. The last project was to great a 
+'Choose Your Adventure' type story. This was not only challenging, but was also a blast. After class today I plan on adding some finishing touches and 
+uploading it to github. I am excited for tomorrow, where we will be diving deeper into JAVA.  
