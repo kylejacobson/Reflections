@@ -1,0 +1,5 @@
+We stared today off with a lecture on Java loops and inheritance. It was then followed by two projects. The first was to make a for loop
+that counted off every number from 1-100. It had 3 conditions, if the number was divisible by 4 have it print "fizz". If it was 
+divisible by 7, print "buzz". The last condition was if it is divisible by both 7 and 4, print "fuzzbuzz". Our second project
+was to make a robot using inheritance. The requirements were to have it move and be able to recharge. Starting off, I had a very
+difficult time with this project. I sat down with Adam several times and I was able to have a few things cleared up.  
