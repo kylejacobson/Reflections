@@ -1,0 +1,5 @@
+Today we Started off with a lecture on Java functions, classes, objects and instantiation.
+All of this was new information to me, and it was a lot to take in. Our project was to add multiple classes and 
+objects to our story. I was having a diffiuclt time with this. I asked Adam to do a run thru on the white board
+and I was able to get a little bit of a better grasp. This weekend I plan to watch some more tutorial videos to 
+try and get a full understanding of what I'm working with. 
